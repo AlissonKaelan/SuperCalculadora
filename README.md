@@ -1,0 +1,2 @@
+# SuperCalculadora
+ Foi criado um Jfram view Rasizible desable. 1 spinner com model que aceita números Integer, Initial value 1, Minimum - 100, Maximum 100 e step size 1. 1 panel agrupando 10 label. 1 button para :preencher as os label, calcular resto e Math(pow, sqrt, cbrt, abs ), fazer o panel aparecer. utilizado para botar somente os resultados no Label (String.valueOf), formatando o resultado(String.format).
